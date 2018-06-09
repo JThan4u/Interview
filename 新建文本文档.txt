@@ -1,0 +1,47 @@
+◆项目中最难的
+
+◆设计模式:
+	1. 了解几种?
+	2. 几种单例
+◆Sql:
+	索引几种原理,形式, 场景
+	优化
+	语句执行顺序
+	隔离级别 脏数据	事务嵌套 事务异常
+	where 和 having
+	乐观锁 和 悲观锁
+	Innodb 和 MyISAM
+	连接池作用
+
+
+◆javaEE:
+	restful:
+	单点登录:
+		1. 权限的实现
+		2. 登录后如何跳转
+	购物车:
+
+	springMVC工作原理
+	spring:
+		什么是IOC AOP
+		三种IOC的机制
+		applicationContext 和 BeanFactory的区别
+
+	spring:
+		1. 如何控制事务
+		2. 七大功能模块
+
+	Servlet:
+		如何实现单线程
+		接口中方法以及作用
+		调用过程  生命周期
+
+	HTTP:
+		是什么?  原理?   特点?  
+		get post 区别
+
+	WEB的一堆:
+		jdbc  Servlet  过滤器   监听器  JSP    九大对象    四个作用域	EL   
+
+JavaSE:
+	多线程并发
